@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciador Amil Black",
+  "description": "Sistema de gerenciamento de reajustes de prestadores Amil Black com controle de auditoria financeira, histórico de negociações e exportação de dados via API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
